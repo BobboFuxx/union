@@ -150,8 +150,8 @@ import (
 )
 
 const (
-	AccountAddressPrefix = "union"
-	Name                 = "union"
+	AccountAddressPrefix = "light"
+	Name                 = "Light App"
 )
 
 var (
